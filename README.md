@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Blog Post App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is based off of a tutorial by David Gray (youtube).
+
+It utilizes Redux-toolkit for state management, allows for a user to create, update and delete posts.  Data is pulled from the jsonplaceholder api.  Very simple but clean application showcasing these skills. 
 
 ## Available Scripts
 
